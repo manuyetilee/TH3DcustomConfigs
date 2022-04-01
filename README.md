@@ -1,2 +1,2 @@
-# ezboardCR10S
-Firmware modifications for cr10s based on ezboard v2
+# customConfigsTH3D
+Firmware TH3D's config modifications for 3d printers
