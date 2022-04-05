@@ -107,7 +107,7 @@
 // E motor settings are below in the Extruder Settings Section
 //#define REVERSE_X_MOTOR
 //#define REVERSE_Y_MOTOR
-//#define REVERSE_Z_MOTOR
+#define REVERSE_Z_MOTOR
 
 // E Motor Torque Settings
 // By default we have StealthChop2 Disabled for the E axis. This is due to the possibility of losing steps
@@ -135,7 +135,7 @@
 //===========================================================================
 
 // Probing Grid Points - If you want more or less EZABL probe points change the number below, use odd numbers. Total points is # times #.
-#define EZABL_POINTS 4
+#define EZABL_POINTS 3
 
 // Probe Edge - How far from the edge of the bed to probe from. Use 50 if using binder clips. This also sets the edge inset value for MANUAL_MESH_LEVELING.
 #define EZABL_PROBE_EDGE 20
