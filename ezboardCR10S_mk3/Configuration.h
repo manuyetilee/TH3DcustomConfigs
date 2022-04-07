@@ -82,7 +82,7 @@
 
 // EZNeo Settings -----------------------------------------------------------
 // If you are using an EZNeo strip on your printer, uncomment the line for what strip you are using.
-//#define EZNEO_220
+#define EZNEO_220
 
 // EZNeo Manual IO Pin Setting ----------------------------------------------
 // If you have the EZNeo wired to a different IO pin and/or you are using your own 5V power provided, specify the pin used below.
